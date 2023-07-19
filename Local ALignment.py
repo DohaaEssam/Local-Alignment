@@ -1,4 +1,4 @@
-#Doha Essam Mohamed , Norhan Mohamed Abdelaziz , karma amr abelmonsef, Rawan Mohamed Elsayed, Ali Ahmed Hassan,Taha Mohamed Taha
+
 blosum62 = {
     ('W', 'F'): 1, ('L', 'R'): -2, ('S', 'P'): -1, ('V', 'T'): 0,
     ('Q', 'Q'): 5, ('N', 'A'): -2, ('Z', 'Y'): -2, ('W', 'R'): -3,
